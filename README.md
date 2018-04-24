@@ -15,7 +15,7 @@ Los huesos en el ser humano y todos los animales son órganos tan vitales como l
 
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5136313.png" width="297" height="101" alt="CRÁNEO" /></a>
 
-# Cráneo
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Es-Human_skull_front_in_Spanish_%28bones%29.png/272px-Es-Human_skull_front_in_Spanish_%28bones%29.png)
 
