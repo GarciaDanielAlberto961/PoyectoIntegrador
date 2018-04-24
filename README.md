@@ -1,15 +1,18 @@
 
 ![](https://lh3.googleusercontent.com/-nqE-kXJZybc/Wt9-4_J1BfI/AAAAAAAAAKQ/x6Pz772FwnIK3jXJJ0UhniaoiatUgd0oACLcBGAs/w530-h298-n-rw/HUesos.jpg)
 
-¿Què son los huesos?: 
- 
-El hueso es un tejido conjuntivo firme, duro y resistente que forma parte del endoesqueleto de los vertebrados. Está compuesto por tejidos duros y blandos. El principal tejido duro es el tejido óseo, un tipo especializado de tejido conectivo constituido por células (osteocitos) y componentes extracelulares calcificados. Los huesos poseen una cubierta superficial de tejido conectivo fibroso llamado periostio y sus superficies articulares están cubiertos por tejido conectivo cartilaginoso. Los componentes blandos incluyen a los tejidos conectivos mieloide tejido hematopoyético y adiposo (grasa) situados en la médula ósea. El hueso también cuenta con vasos sanguíneos y nervios que irrigan e inervan su estructura.
+# Clasificación
+## Huesos largos
+Presentan una forma cilíndrica, predomina la longitud sobre el ancho y grosor, se dividen en tres porciones un cuerpo y dos extremos (proximal y distal), generalmente se encuentran en los miembros locomotores. Ejemplos: húmero, fémur, etc.
 
-Los huesos poseen formas muy variadas y cumplen varias funciones. Con una estructura interna compleja pero muy funcional que determina su morfología, los huesos son livianos aunque muy resistentes y duros.
+## Huesos cortos
+Presentan una forma cuboide, no predomina ninguna de sus dimensiones, su función es de amortiguamiento. Ejemplos: huesos del carpo y tarso.
 
-El conjunto total y organizado de las piezas óseas (huesos) conforma el esqueleto o sistema esquelético. Cada pieza cumple una función en particular y de conjunto en relación con las piezas próximas a las que está articulada.
+## Huesos planos
+Su principal característica es que son más anchos y largos que gruesos, su función es la de proteger tejidos blandos e inserción de grandes masas musculares. Ejemplos: escápula u omóplato, huesos del cráneo y coxal.
 
-Los huesos en el ser humano y todos los animales son órganos tan vitales como los músculos o el cerebro, con una amplia capacidad de regeneración y reconstitución. Sin embargo, vulgarmente se tiene una visión del hueso como una estructura inerte, puesto que lo que generalmente queda a la vista tras la muerte son las piezas óseas —secas y libres de materia orgánica— de los esqueletos tras la descomposición de los cadáveres.
+## Huesos irregulares
+No presentan forma o división predominante para su agrupación, son impares y se localizan en la línea media, sus funciones son variables aunque la de mayor importancia es la protección del sistema nervioso central. Ejemplo: vértebras.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Human_skeleton_front_es.svg/270px-Human_skeleton_front_es.svg.png) 
-
+## Huesos sesamoideos
+Son pequeñas estructuras de tejido oseo con forma más o menos ovaladas y número inconstante que se localizan en las proximidades de los tendones. Su función es desconocida, se cree que disminuyen la fricción y alteran la dirección en que se realiza la tracción muscular. Los más importantes se localizan junto a la articulación metatarsofalángica del primer dedo del pie. La rótula, aunque se estudia de forma independiente, está considerada un hueso sesamoideo de gran tamaño. Pueden sufrir fracturas y presentar procesos inflamatorios que se concocen como sesamoiditis.
