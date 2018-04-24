@@ -1,7 +1,7 @@
 
 ![](https://lh3.googleusercontent.com/-nqE-kXJZybc/Wt9-4_J1BfI/AAAAAAAAAKQ/x6Pz772FwnIK3jXJJ0UhniaoiatUgd0oACLcBGAs/w530-h298-n-rw/HUesos.jpg)
 
-
+![](https://images.cooltext.com/5136305.png) 
  
 El hueso es un tejido conjuntivo firme, duro y resistente que forma parte del endoesqueleto de los vertebrados. Está compuesto por tejidos duros y blandos. El principal tejido duro es el tejido óseo, un tipo especializado de tejido conectivo constituido por células (osteocitos) y componentes extracelulares calcificados. Los huesos poseen una cubierta superficial de tejido conectivo fibroso llamado periostio y sus superficies articulares están cubiertos por tejido conectivo cartilaginoso. Los componentes blandos incluyen a los tejidos conectivos mieloide tejido hematopoyético y adiposo (grasa) situados en la médula ósea. El hueso también cuenta con vasos sanguíneos y nervios que irrigan e inervan su estructura.
 
