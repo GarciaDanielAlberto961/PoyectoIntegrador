@@ -23,6 +23,6 @@ El cráneo es el esqueleto de la cabeza y diversos huesos constituyen sus dos pa
 
 
 
-
+![Huesosk](Huesosk)
 
 
