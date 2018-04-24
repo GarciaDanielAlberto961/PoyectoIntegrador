@@ -4,6 +4,6 @@
 # ¿QUE SON LOS HUESOS?
 
 
-![CRANEO](CRANEO.md)
+![CRANEO](CRANEO)
 
 
