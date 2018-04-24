@@ -21,20 +21,6 @@ Los huesos en el ser humano y todos los animales son órganos tan vitales como l
 
 El cráneo es el esqueleto de la cabeza y diversos huesos constituyen sus dos partes: el neurocráneo y viscerocráneo. El neurocráneo es la caja ósea del encéfalo y sus cubiertas membranosas. En un adulto, está formado por una serie de ocho huesos: cuatro impares centrados en la línea media (frontal, etmoides, esfenoides y occipital) y dos series de pares bilaterales (temporal y parietal). Los huesos del denominado neurocráneo en conjunto conforman otras dos estructuras anatómicas: Los huesos frontal, parietales y occipital suelen conformar una estructura de techo parecido a una cúpula, denominada calvaria o bóveda craneal, mientras que el hueso esfenoides y temporales forman parte de la base del cráneo. El viscerocráneo, también llamado esqueleto facial, constituye la parte anterior del cráneo y se compone de los huesos que rodean la boca (maxilares y mandíbula), la nariz/cavidad nasal y la mayor parte de las cavidades orbitarias. Éste consta de 15 huesos irregulares: tres huesos impares centrados (mandíbula, etmoides y vómer) y seis huesos pares bilaterales (maxilar, cornete nasal inferior, cigomático, palatino, nasal y lagrimal). Los maxilares y la mandíbula albergan los dientes, o de otra forma dicho, proporcionan las cavidades y el hueso de sostén para los dientes maxilares y mandibulares. Los maxilares forman la mayor parte del esqueleto facial superior, fijado a la base del cráneo. La mandíbula forma el esqueleto facial inferior, siendo éste de carácter móvil al articularse con la base del cráneo en las articulaciones temporomandibulares.
 
-![](https://images.cooltext.com/5136314.png) 
-
-El calcio es fundamental para mantenerlos en buen estado
-
-Al observar cómo se levanta un edificio, se descubre la forma en que las vigas de concreto y metal forman la estructura que lo va a mantener de pie, tal y como ocurre con los huesos en el cuerpo humano, que los necesita para estar erguido y realizar los movimientos de que son capaces mujeres y hombres.
-
-Todos los seres vertebrados cuentan con una formidable estructura ósea, que les da la capacidad de moverse, caminar y sostener la masa corporal y todos los músculos en su sitio. Esto es la parte primordial de la exposición "Huesos: Conoce tu lado Flaco" que muestra la obra maestra de ingeniería biológica que es el esqueleto.
-
-El Papalote Museo del Niño alberga la exhibición, con el patrocinio de Nestlé México, que ocupa 600 metros cuadrados y está destinada a crear conciencia sobre los principios fundamentales de la biología de los huesos y de la importancia de mantenerlos sanos mediante una alimentación rica en calcio.
-
-Sus organizadores dicen que se trata de "un espacio de aprendizaje con una gran variedad de exhibiciones interactivas que enseña de manera divertida, por ejemplo, cómo la tecnología moderna da las herramientas para mantener los huesos sanos" y, de manera sencilla, enseña a conocer las distintas formas en que la estructura ósea está presente en el mundo cotidiano, como en el arte, la música, la literatura y muchas otras actividades del ser humano.
-
-![](https://image.slidesharecdn.com/calcio-entrenamiento-130515164343-phpapp01/95/la-importancia-del-calcio-en-la-vida-5-638.jpg?cb=1368788839)
-
-
-[Huesos](Huesosk.md)
+Para ver la impotancia de los huesos ver aqui
+[Más Huesos](Huesosk.md)
 
